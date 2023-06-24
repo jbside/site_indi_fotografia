@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+.all{
+  background-color: #e5cfb0;
+}
+
+.content-load{
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
+
+#load{
+   background-image: url("assets/img/secundaria_preta2.png");
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   width:  280px;
+   height: 100px;
+}
